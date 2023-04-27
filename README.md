@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...creating a face generation software using styleGAN and python.
-- 🌱 I’m currently learning machine learning along with deep learning as well as computer vision
+- 🔭 I’m currently working on ...developing machine learning projects using python.
+- 🌱 I’m currently learning deep learning along with computer vision as well.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
