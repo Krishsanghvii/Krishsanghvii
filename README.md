@@ -72,5 +72,3 @@ This repository contains my personal projects, research, and experiences in **Da
 - **GitHub**: [github.com/krishsanghvii](https://github.com/krishsanghvii)
 
 ---
-
-This README provides a comprehensive view of your projects, education, experience, and technical skills. You can modify this based on the exact setup for each project or provide more detailed instructions if needed. Let me know if you'd like to make any changes!
