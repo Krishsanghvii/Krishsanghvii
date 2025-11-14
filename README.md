@@ -154,7 +154,7 @@ I'm passionate about leveraging AI/ML to solve complex problems and always excit
 **🐱 GitHub**: [krishsanghvii](https://github.com/krishsanghvii)
 
 ### 💡 **Open to Opportunities**
-Actively seeking **Summer 2025 internships** and **full-time positions** in:
+Actively seeking **Spring 2026 internships** and **full-time positions** in:
 - 🤖 Machine Learning Engineering
 - 📊 Data Science & Analytics
 - 👁️ Computer Vision
