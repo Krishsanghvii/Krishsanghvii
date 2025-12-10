@@ -113,23 +113,6 @@ I'm a data scientist and ML engineer with hands-on experience at **Intel Corpora
 **B.E. in Artificial Intelligence and Data Science** | *July 2020 - June 2024*  
 📍 Mumbai, India | GPA: 3.2/4.0
 
-</div>
-
-## 💼 Professional Experience
-
-<div align="center">
-
-### **Intel Corporation** | **AI Intern**
-*June 2023 - October 2023 | Mumbai, India*
-
-#### 🏆 Key Achievements
-- 🤖 Developed sentiment analysis system with **80% accuracy** on 10K+ inputs
-- 📊 Processed **500K+ data points** for crypto trading application
-- 🚗 Built computer vision model achieving **92% accuracy** for car brand identification
-- ⚡ Achieved **<200ms latency** for real-time trade execution
-- 🚀 Reduced model inference time by **25%** through optimization
-
-</div>
 
 ## 📈 GitHub Analytics
 
